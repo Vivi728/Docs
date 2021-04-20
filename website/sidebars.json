@@ -4,6 +4,7 @@
 			"index"
 		],
 		"Introduce": [
+			"About_PlatON",
 			"lat_introduced",
 			"Network_Description"
 		],
@@ -46,7 +47,7 @@
 				"ids": [
 					"PlatON_system_contract",
 					{
-						"type": "subcategory",
+						"type": "soncategory",
 						"label": "Solidity Contract",
 						"ids": [
 							"Solidity_Dev_Manual",
@@ -57,9 +58,10 @@
 						]
 					},
 					{
-						"type": "subcategory",
+						"type": "soncategory",
 						"label": "Wasm Contract",
 						"ids": [
+							"Wasm_Operation_Principle",
 							"Wasm_Dev_Manual",
 							"Wasm_Contract_Dev_Costs",
 							"Wasm_Contract_Best_Practice",
